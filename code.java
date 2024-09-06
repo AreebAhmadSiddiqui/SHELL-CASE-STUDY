@@ -10,6 +10,7 @@ public class BasicCalculator {
 	public static void main(String[] args)
 	{
 		// Stores two numbers
+		// Addin extra comment
 		double num1, num2;
 
 		// Take input from the user
